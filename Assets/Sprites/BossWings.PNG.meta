@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 13dcc237da037fe4696ace1792f6af6d
+timeCreated: 1475440571
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BossShip 1_0
+    21300002: BossShip 1_1
+    21300004: BossWings_0
+    21300006: BossWings_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BossShip 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 51
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -43}
+        - {x: 7.5, y: -60}
+        - {x: 25.5, y: -60}
+        - {x: 25.5, y: 19}
+        - {x: 13.5, y: 60}
+        - {x: -1.5, y: 60}
+        - {x: -25.5, y: 8}
+    - name: BossShip 1_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 51
+        height: 120
+      alignment: 9
+      pivot: {x: 0.60948896, y: 0.5081104}
+      border: {x: 22, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.083939, y: 59.026752}
+        - {x: -31.083939, y: 25.026752}
+        - {x: -31.083939, y: -60.973248}
+        - {x: -10.083939, y: -60.973248}
+        - {x: 19.916061, y: -51.973248}
+        - {x: 19.916061, y: 25.026752}
+        - {x: 1.9160614, y: 59.026752}
+    - name: BossWings_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 51
+        width: 26
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BossWings_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 48
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 27}
+        - {x: 5, y: 40}
+        - {x: -10, y: 40}
+        - {x: -23, y: 33}
+        - {x: -24, y: 22}
+        - {x: -24, y: -59}
+        - {x: -5, y: -59}
+        - {x: -4, y: -57}
+        - {x: 2, y: -59}
+        - {x: 24, y: -59}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
